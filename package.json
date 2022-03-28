@@ -1,0 +1,25 @@
+{
+  "name": "market",
+  "version": "1.0.0",
+  "description": "a market app for fresh produce",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mdelamerced/marketfresh.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "heroku"
+  ],
+  "author": "Melissa dela Merced",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdelamerced/marketfresh/issues"
+  },
+  "homepage": "https://github.com/mdelamerced/marketfresh#readme"
+}
