@@ -18,13 +18,15 @@
   ],
   "author": "Melissa dela Merced",
   "license": "ISC",
+
+  "dependencies": {
+    "express" :"4.17.3",
+    "mongoose":"6.2.8",
+    "mongodb": 
+  },
+
   "bugs": {
     "url": "https://github.com/mdelamerced/marketfresh/issues"
   },
-  "homepage": "https://github.com/mdelamerced/marketfresh#readme",
-  "dependencies": {
-    "express": "^4.17.3",
-    "mongodb": "^4.4.1",
-    "mongoose": "^6.2.8"
-  }
+  "homepage": "https://github.com/mdelamerced/marketfresh#readme"
 }
